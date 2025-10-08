@@ -17,8 +17,11 @@
 2. **ดูรายชื่อเพื่อนร่วมชั้นตามปีการศึกษา**
    - API: `https://cis.kku.ac.th/api/classroom/class/{ปีการศึกษา}`
 3. **โพสต์สถานะ**
+
 4. **คอมเมนต์บนโพสต์**
+
 5. **Like / Unlike โพสต์**
+
 6. **รองรับการแสดงผลหลายขนาดหน้าจอ (responsive)**
 
 ---
@@ -36,7 +39,7 @@ Quiz-Hybrid-Mobile/
 │ ├─ context/ # AuthContext, ThemeContext
 │ ├─ screens/ # Login, Home, Classmates, PostDetail
 │ └─ theme/ # Theme definitions
-├─ App.tsx # Stack Navigator หลัก
+├─ App.tsx 
 ├─ package.json
 └─ README.md
 
@@ -59,3 +62,4 @@ npm install @react-navigation/native-stack --legacy-peer-deps
 
 
 npm start  
+
