@@ -7,8 +7,8 @@ export default function LoginScreen({ navigation }: any) {
   const { login } = useAuth();
   const { width } = Dimensions.get("window");
 
-  const [email, setEmail] = useState("siriporn.ka@kkumail.com"); // ใส่ default
-  const [password, setPassword] = useState("Password123"); // ใส่ default
+  const [email, setEmail] = useState("siriporn.ka@kkumail.com"); 
+  const [password, setPassword] = useState("Password123"); 
   const [showPassword, setShowPassword] = useState(false);
 
   const handleLogin = async () => {
@@ -115,3 +115,4 @@ const styles = StyleSheet.create({
     color: "#666",
   },
 });
+
