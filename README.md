@@ -28,22 +28,6 @@
 
 ---
 
-## 🔹 โครงสร้างโปรเจกต์
-
-Quiz-Hybrid-Mobile/
-├─ src/
-│  ├─ api/           # เรียกใช้งาน API
-│  ├─ components/    # Card, ThemeToggle, UI Components
-│  ├─ context/       # AuthContext, ThemeContext
-│  ├─ screens/       # Login, Home, Classmates, PostDetail
-│  └─ theme/         # Theme definitions
-├─ App.tsx           # Stack Navigator หลัก
-├─ package.json
-└─ README.md
-
-
----
-
 ## 🔹 การติดตั้ง
 
 1. **เข้าโฟลเดอร์โปรเจกต์**
@@ -58,3 +42,4 @@ npm install @react-navigation/native-stack --legacy-peer-deps
 
 🔹 การรันแอป
 npm start  
+
