@@ -15,7 +15,8 @@
 1. **ล็อกอินเข้าสู่ระบบ**
 <img src="./assets/1.png" alt="Login Screen" width="300"/>
 2. **ดูรายชื่อเพื่อนร่วมชั้นตามปีการศึกษา**
-   - API: `https://cis.kku.ac.th/api/classroom/class/{ปีการศึกษา}`
+   
+
 3. **โพสต์สถานะ**
 
 4. **คอมเมนต์บนโพสต์**
@@ -62,4 +63,5 @@ npm install @react-navigation/native-stack --legacy-peer-deps
 
 
 npm start  
+
 
