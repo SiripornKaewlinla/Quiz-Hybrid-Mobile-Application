@@ -32,12 +32,12 @@
 
 Quiz-Hybrid-Mobile/
 ├─ src/
-│  ├─ api/             # เรียกใช้งาน API
-│  ├─ components/      # Card, ThemeToggle, UI Components
-│  ├─ context/         # AuthContext, ThemeContext
-│  ├─ screens/         # Login, Home, Classmates, PostDetail
-│  └─ theme/           # Theme definitions
-├─ App.tsx            
+│  ├─ api/           # เรียกใช้งาน API
+│  ├─ components/    # Card, ThemeToggle, UI Components
+│  ├─ context/       # AuthContext, ThemeContext
+│  ├─ screens/       # Login, Home, Classmates, PostDetail
+│  └─ theme/         # Theme definitions
+├─ App.tsx           # Stack Navigator หลัก
 ├─ package.json
 └─ README.md
 
@@ -55,13 +55,9 @@ Quiz-Hybrid-Mobile/
 npm install 
 npx expo install react-native-screens react-native-safe-area-context react-native-gesture-handler
 npm install @react-navigation/native-stack --legacy-peer-deps
+
 🔹 การรันแอป
-
-
 npm start  
-
-
-
 
 
 
