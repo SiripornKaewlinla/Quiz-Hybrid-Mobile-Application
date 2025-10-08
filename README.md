@@ -58,7 +58,3 @@ npm install @react-navigation/native-stack --legacy-peer-deps
 
 🔹 การรันแอป
 npm start  
-
-
-
-
