@@ -29,17 +29,12 @@
 ---
 
 ## 🔹 การติดตั้ง
-
-1. **เข้าโฟลเดอร์โปรเจกต์**
-
-```bash
-
-ติดตั้ง dependencies
-
+``
 npm install 
 npx expo install react-native-screens react-native-safe-area-context react-native-gesture-handler
 npm install @react-navigation/native-stack --legacy-peer-deps
 
 🔹 การรันแอป
 npm start  
+
 
