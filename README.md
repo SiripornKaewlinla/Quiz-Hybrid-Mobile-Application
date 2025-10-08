@@ -31,10 +31,13 @@
 ## 🔹 การติดตั้ง
 ``
 npm install 
+
 npx expo install react-native-screens react-native-safe-area-context react-native-gesture-handler
+
 npm install @react-navigation/native-stack --legacy-peer-deps
 
 🔹 การรันแอป
 npm start  
+
 
 
