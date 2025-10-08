@@ -42,8 +42,6 @@ Quiz-Hybrid-Mobile/
 └─ README.md
 
 
-
-
 ---
 
 ## 🔹 การติดตั้ง
@@ -61,6 +59,7 @@ npm install @react-navigation/native-stack --legacy-peer-deps
 
 
 npm start  
+
 
 
 
