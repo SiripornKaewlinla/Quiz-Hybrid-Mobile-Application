@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     paddingVertical: 16,
-    backgroundColor: "#f2f6ff", // ฟ้าอ่อนสบายตา
+    backgroundColor: "#f2f6ff", 
   },
   title: {
     fontSize: 26,
@@ -56,3 +56,4 @@ const styles = StyleSheet.create({
     color: "#3f4c6b",
   },
 });
+
