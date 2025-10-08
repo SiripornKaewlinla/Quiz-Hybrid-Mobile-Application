@@ -33,21 +33,13 @@
 Quiz-Hybrid-Mobile/
 
 ├─ src/
-
 │ ├─ api/ # เรียกใช้งาน API
-
 │ ├─ components/ # Card, ThemeToggle, UI Components
-
 │ ├─ context/ # AuthContext, ThemeContext
-
 │ ├─ screens/ # Login, Home, Classmates, PostDetail
-
 │ └─ theme/ # Theme definitions
-
 ├─ App.tsx 
-
 ├─ package.json
-
 └─ README.md
 
 
@@ -69,6 +61,7 @@ npm install @react-navigation/native-stack --legacy-peer-deps
 
 
 npm start  
+
 
 
 
